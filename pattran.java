@@ -10,6 +10,6 @@ public class pattran {
             }
             System.out.println(" ");
         }
-        
+        sc.close();
     }
 }
